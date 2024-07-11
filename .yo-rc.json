@@ -1,0 +1,21 @@
+{
+  "@microsoft/generator-sharepoint": {
+    "plusBeta": false,
+    "isCreatingSolution": true,
+    "nodeVersion": "18.17.1",
+    "sdksVersions": {
+      "@microsoft/microsoft-graph-client": "3.0.2",
+      "@microsoft/teams-js": "2.12.0"
+    },
+    "version": "1.18.2",
+    "libraryName": "approvalforms",
+    "libraryId": "b8c53b31-dd5e-42f9-a25a-9ae8b34d3fa6",
+    "environment": "spo",
+    "packageManager": "npm",
+    "solutionName": "approvalforms",
+    "solutionShortDescription": "approvalforms description",
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "componentType": "webpart"
+  }
+}

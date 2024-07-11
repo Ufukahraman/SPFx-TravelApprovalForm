@@ -1,0 +1,40 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "approvalforms-client-side-solution",
+    "id": "b8c53b31-dd5e-42f9-a25a-9ae8b34d3fa6",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false,
+    "developer": {
+      "name": "",
+      "websiteUrl": "",
+      "privacyUrl": "",
+      "termsOfUseUrl": "",
+      "mpnId": "Undefined-1.18.2"
+    },
+    "metadata": {
+      "shortDescription": {
+        "default": "approvalforms description"
+      },
+      "longDescription": {
+        "default": "approvalforms description"
+      },
+      "screenshotPaths": [],
+      "videoUrl": "",
+      "categories": []
+    },
+    "features": [
+      {
+        "title": "approvalforms Feature",
+        "description": "The feature that activates elements of the approvalforms solution.",
+        "id": "23fcf1d6-4b27-46f4-b8cc-52a4877e86eb",
+        "version": "1.0.0.0"
+      }
+    ]
+  },
+  "paths": {
+    "zippedPackage": "solution/approvalforms.sppkg"
+  }
+}
